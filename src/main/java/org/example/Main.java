@@ -9,10 +9,7 @@ public class Main {
         String email = "Test.ru"
         int t = 11;
         int b = "sajndjsandjsad"
-        int x;
-        int yty;
-        int sakdk;
-        int sakdkd;
+
 
         public void bad(){
 
