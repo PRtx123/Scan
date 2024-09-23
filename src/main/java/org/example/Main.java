@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         int a
         int b = 11; int c = 8;
-        int h = 1000;
+        int h = 10001;
         String email = "Test.ru"
         int t = 111;
         int b = "sajndjsandjsad"
